@@ -44,7 +44,7 @@ public class PlayerMovement : MonoBehaviour
 	public float gravity = -25f;
 
 	// Move speed
-	public float moveSpeed = 3f;
+	public float moveSpeed;
 
 	// Acceleration Curve
 	public AnimationCurve accelerationCurve;
