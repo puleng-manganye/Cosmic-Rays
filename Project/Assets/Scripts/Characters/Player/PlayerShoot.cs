@@ -118,12 +118,12 @@ public class PlayerShoot : MonoBehaviour
         // If we're facing right:
         if (transform.position.x < projectileSpawnPoint.position.x)
         {
-            rb.linearVelocity = transform.TransformDirection(Vector3.right * _projectileSpeed);
+            rb.velocity = transform.TransformDirection(Vector3.right * _projectileSpeed);
         }
         //if we're facing left:
         else if (transform.position.x > projectileSpawnPoint.position.x)
         {
-            rb.linearVelocity = transform.TransformDirection(Vector3.left * _projectileSpeed);
+            rb.velocity = transform.TransformDirection(Vector3.left * _projectileSpeed);
         }
     }
     #endregion

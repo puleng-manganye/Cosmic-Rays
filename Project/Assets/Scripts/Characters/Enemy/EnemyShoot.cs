@@ -121,14 +121,14 @@ public class EnemyShoot : MonoBehaviour
         {
             GameObject projectile = Instantiate(projectilePrefab, projectileSpawnPoint.position, Quaternion.identity);
             Rigidbody2D rididbody = projectile.GetComponent<Rigidbody2D>();
-            rididbody.linearVelocity = transform.TransformDirection(Vector3.right * _projectileSpeed);
+            rididbody.velocity = transform.TransformDirection(Vector3.right * _projectileSpeed);
         }
         // If we're facing left:
         else if (transform.position.x > projectileSpawnPoint.position.x && transform.position.x > _player.transform.position.x)
         {
             GameObject projectile = Instantiate(projectilePrefab, projectileSpawnPoint.position, Quaternion.identity);
             Rigidbody2D rigidbody = projectile.GetComponent<Rigidbody2D>();
-            rigidbody.linearVelocity = transform.TransformDirection(Vector3.left * _projectileSpeed);
+            rigidbody.velocity = transform.TransformDirection(Vector3.left * _projectileSpeed);
         }
     }
 

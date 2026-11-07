@@ -46,7 +46,7 @@ public class Projectile : MonoBehaviour
     private void Start()
     {
         // Makes sure that the sprite is facing the correct way, by checking the velocity of its RigidBody2D component.
-        if (_rigidbody.linearVelocity.x < 0f && flipSprite)
+        if (_rigidbody.velocity.x < 0f && flipSprite)
         {
             _sprite.flipX = true;
         }
