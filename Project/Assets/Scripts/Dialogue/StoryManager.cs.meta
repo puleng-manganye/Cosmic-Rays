@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5d79cdff4eb146e43bff1d146612094c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _audioClip: {instanceID: 0}
+  - _inkJsonAsset: {instanceID: 0}
+  - _textField: {instanceID: 0}
+  - _nameField: {instanceID: 0}
+  - _DefaultFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - _AmandlaFont: {instanceID: 0}
+  - _GrannyFont: {instanceID: 0}
+  - _choiceButtonContainer: {instanceID: 0}
+  - _choiceButtonPrefab: {instanceID: 0}
+  - _continueButton: {instanceID: 0}
+  - _nameBG: {instanceID: 0}
+  - _namePanel: {instanceID: 0}
+  - _dialoguePanel: {instanceID: 0}
+  - _pausePrompt: {instanceID: 0}
+  - _Amandla: {instanceID: 0}
+  - _Granny: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

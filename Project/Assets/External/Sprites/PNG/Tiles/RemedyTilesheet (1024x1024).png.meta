@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 6a77630c9f22e244780b11feb036c98d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5295220180001896225
+    second: RemedyTilesheet (1024x1024)_0
+  - first:
+      213: 1287360337479443374
+    second: RemedyTilesheet (1024x1024)_1
+  - first:
+      213: -2803251812899911828
+    second: RemedyTilesheet (1024x1024)_2
+  - first:
+      213: -4067581621400394112
+    second: RemedyTilesheet (1024x1024)_3
+  - first:
+      213: -6352745239106707679
+    second: RemedyTilesheet (1024x1024)_4
+  - first:
+      213: 664142765517682842
+    second: RemedyTilesheet (1024x1024)_5
+  - first:
+      213: 3371622764967182537
+    second: RemedyTilesheet (1024x1024)_6
+  - first:
+      213: 2864866257777518400
+    second: RemedyTilesheet (1024x1024)_7
+  - first:
+      213: 9168402536842262286
+    second: RemedyTilesheet (1024x1024)_8
+  - first:
+      213: -5410564019193035748
+    second: RemedyTilesheet (1024x1024)_9
+  - first:
+      213: 8013918306643937886
+    second: RemedyTilesheet (1024x1024)_10
+  - first:
+      213: 1148511551145804399
+    second: RemedyTilesheet (1024x1024)_11
+  - first:
+      213: -9161209959421809998
+    second: RemedyTilesheet (1024x1024)_12
+  - first:
+      213: 4319339937704309536
+    second: RemedyTilesheet (1024x1024)_13
+  - first:
+      213: -3949468608535035919
+    second: RemedyTilesheet (1024x1024)_14
+  - first:
+      213: 3624678691655238097
+    second: RemedyTilesheet (1024x1024)_15
+  - first:
+      213: 4114477692249542928
+    second: RemedyTilesheet (1024x1024)_16
+  - first:
+      213: 583926541119941122
+    second: RemedyTilesheet (1024x1024)_17
+  - first:
+      213: -8249145378725107787
+    second: RemedyTilesheet (1024x1024)_18
+  - first:
+      213: -8891169921490610849
+    second: RemedyTilesheet (1024x1024)_19
+  - first:
+      213: 6688472389543677970
+    second: RemedyTilesheet (1024x1024)_20
+  - first:
+      213: 2041706104570098409
+    second: RemedyTilesheet (1024x1024)_21
+  - first:
+      213: -1617570539108680922
+    second: RemedyTilesheet (1024x1024)_22
+  - first:
+      213: -8288641281050725931
+    second: RemedyTilesheet (1024x1024)_23
+  - first:
+      213: 6571917060208448958
+    second: RemedyTilesheet (1024x1024)_24
+  - first:
+      213: 2815680604889658614
+    second: RemedyTilesheet (1024x1024)_25
+  - first:
+      213: 6829934777541116147
+    second: RemedyTilesheet (1024x1024)_26
+  - first:
+      213: 5993513092728780783
+    second: RemedyTilesheet (1024x1024)_27
+  - first:
+      213: -2474987415133385301
+    second: RemedyTilesheet (1024x1024)_28
+  - first:
+      213: -9047325370955153063
+    second: RemedyTilesheet (1024x1024)_29
+  - first:
+      213: 8420582542667526752
+    second: RemedyTilesheet (1024x1024)_30
+  - first:
+      213: -4917571840519884324
+    second: RemedyTilesheet (1024x1024)_31
+  - first:
+      213: -2554531226971566047
+    second: RemedyTilesheet (1024x1024)_32
+  - first:
+      213: 9170837390465288835
+    second: RemedyTilesheet (1024x1024)_33
+  - first:
+      213: -3190392850239511510
+    second: RemedyTilesheet (1024x1024)_34
+  - first:
+      213: -1434513410253893720
+    second: RemedyTilesheet (1024x1024)_35
+  - first:
+      213: 2242040652148132953
+    second: RemedyTilesheet (1024x1024)_36
+  - first:
+      213: -9142626818389223336
+    second: RemedyTilesheet (1024x1024)_37
+  - first:
+      213: -7587895793322560576
+    second: RemedyTilesheet (1024x1024)_38
+  - first:
+      213: 4602964442517821280
+    second: RemedyTilesheet (1024x1024)_39
+  - first:
+      213: 6562984151262619852
+    second: RemedyTilesheet (1024x1024)_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273e7cc2b66c7940800000000000000
+      internalID: 5295220180001896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a36df76f9dd110800000000000000
+      internalID: 1287360337479443374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6781241459d819d0800000000000000
+      internalID: -2803251812899911828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a589f01c0d87c0800000000000000
+      internalID: -4067581621400394112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9d720dd386d7a0800000000000000
+      internalID: -6352745239106707679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b3d29352873900800000000000000
+      internalID: 664142765517682842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04d768a096ace20800000000000000
+      internalID: 3371622764967182537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e4d7ceac02c720800000000000000
+      internalID: 2864866257777518400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f54ee785bc3f70800000000000000
+      internalID: 9168402536842262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144d71e0b0d9e4b0800000000000000
+      internalID: -5410564019193035748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a03868d38273f60800000000000000
+      internalID: 8013918306643937886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f628a72bb2550ff00800000000000000
+      internalID: 1148511551145804399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba64ef7418dcd080800000000000000
+      internalID: -9161209959421809998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f50bd9c061fb30800000000000000
+      internalID: 4319339937704309536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff76b8c93ba039c0800000000000000
+      internalID: -3949468608535035919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1c901d0127d4230800000000000000
+      internalID: 3624678691655238097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119dc269af891930800000000000000
+      internalID: 4114477692249542928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a606a68168a1800800000000000000
+      internalID: 583926541119941122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e880ebf5258d80800000000000000
+      internalID: -8249145378725107787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f551ae750183c9480800000000000000
+      internalID: -8891169921490610849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21052c4833a32dc50800000000000000
+      internalID: 6688472389543677970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2b5aa72e8955c10800000000000000
+      internalID: 2041706104570098409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3a493a2c3d89e0800000000000000
+      internalID: -1617570539108680922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d135548ba4d8fc80800000000000000
+      internalID: -8288641281050725931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5dd0b2fb3243b50800000000000000
+      internalID: 6571917060208448958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b76f879e431720800000000000000
+      internalID: 2815680604889658614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0cc6e5e7dc8ce50800000000000000
+      internalID: 6829934777541116147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe770c0276c3d2350800000000000000
+      internalID: 5993513092728780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad89691f0417add0800000000000000
+      internalID: -2474987415133385301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c6d88281717280800000000000000
+      internalID: -9047325370955153063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062bd89553bebd470800000000000000
+      internalID: 8420582542667526752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13958277641cbb0800000000000000
+      internalID: -4917571840519884324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12097b0326b7c8cd0800000000000000
+      internalID: -2554531226971566047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acd87740c554f70800000000000000
+      internalID: 9170837390465288835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24278b2b9279b3d0800000000000000
+      internalID: -3190392850239511510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af484c57a5971ce0800000000000000
+      internalID: -1434513410253893720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c464328145d1f10800000000000000
+      internalID: 2242040652148132953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85853ff295dde1180800000000000000
+      internalID: -9142626818389223336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f3567af062b690800000000000000
+      internalID: -7587895793322560576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067570ed5c301ef30800000000000000
+      internalID: 4602964442517821280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemedyTilesheet (1024x1024)_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e68a3057641b50800000000000000
+      internalID: 6562984151262619852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RemedyTilesheet (1024x1024)_0: 5295220180001896225
+      RemedyTilesheet (1024x1024)_1: 1287360337479443374
+      RemedyTilesheet (1024x1024)_10: 8013918306643937886
+      RemedyTilesheet (1024x1024)_11: 1148511551145804399
+      RemedyTilesheet (1024x1024)_12: -9161209959421809998
+      RemedyTilesheet (1024x1024)_13: 4319339937704309536
+      RemedyTilesheet (1024x1024)_14: -3949468608535035919
+      RemedyTilesheet (1024x1024)_15: 3624678691655238097
+      RemedyTilesheet (1024x1024)_16: 4114477692249542928
+      RemedyTilesheet (1024x1024)_17: 583926541119941122
+      RemedyTilesheet (1024x1024)_18: -8249145378725107787
+      RemedyTilesheet (1024x1024)_19: -8891169921490610849
+      RemedyTilesheet (1024x1024)_2: -2803251812899911828
+      RemedyTilesheet (1024x1024)_20: 6688472389543677970
+      RemedyTilesheet (1024x1024)_21: 2041706104570098409
+      RemedyTilesheet (1024x1024)_22: -1617570539108680922
+      RemedyTilesheet (1024x1024)_23: -8288641281050725931
+      RemedyTilesheet (1024x1024)_24: 6571917060208448958
+      RemedyTilesheet (1024x1024)_25: 2815680604889658614
+      RemedyTilesheet (1024x1024)_26: 6829934777541116147
+      RemedyTilesheet (1024x1024)_27: 5993513092728780783
+      RemedyTilesheet (1024x1024)_28: -2474987415133385301
+      RemedyTilesheet (1024x1024)_29: -9047325370955153063
+      RemedyTilesheet (1024x1024)_3: -4067581621400394112
+      RemedyTilesheet (1024x1024)_30: 8420582542667526752
+      RemedyTilesheet (1024x1024)_31: -4917571840519884324
+      RemedyTilesheet (1024x1024)_32: -2554531226971566047
+      RemedyTilesheet (1024x1024)_33: 9170837390465288835
+      RemedyTilesheet (1024x1024)_34: -3190392850239511510
+      RemedyTilesheet (1024x1024)_35: -1434513410253893720
+      RemedyTilesheet (1024x1024)_36: 2242040652148132953
+      RemedyTilesheet (1024x1024)_37: -9142626818389223336
+      RemedyTilesheet (1024x1024)_38: -7587895793322560576
+      RemedyTilesheet (1024x1024)_39: 4602964442517821280
+      RemedyTilesheet (1024x1024)_4: -6352745239106707679
+      RemedyTilesheet (1024x1024)_40: 6562984151262619852
+      RemedyTilesheet (1024x1024)_5: 664142765517682842
+      RemedyTilesheet (1024x1024)_6: 3371622764967182537
+      RemedyTilesheet (1024x1024)_7: 2864866257777518400
+      RemedyTilesheet (1024x1024)_8: 9168402536842262286
+      RemedyTilesheet (1024x1024)_9: -5410564019193035748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5982333283813810008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5982333283813810006}
+  - component: {fileID: 5982333283813810007}
+  m_Layer: 0
+  m_Name: InkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5982333283813810006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982333283813810008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5982333283813810007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982333283813810008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d79cdff4eb146e43bff1d146612094c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _inkJsonAsset: {fileID: 0}
+  _textField: {fileID: 0}
+  _nameField: {fileID: 0}
+  _DefaultFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  _AmandlaFont: {fileID: 12800000, guid: 1e9fc8190bb132f4ea1367320ed58152, type: 3}
+  _GrannyFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  _SizweFont: {fileID: 0}
+  _choiceButtonContainer: {fileID: 0}
+  _choiceButtonPrefab: {fileID: 0}
+  _continueButton: {fileID: 0}
+  _nameBG: {fileID: 0}
+  _namePanel: {fileID: 0}
+  _dialoguePanel: {fileID: 0}
+  _pausePrompt: {fileID: 0}
+  Amandla: {r: 0, g: 0, b: 0, a: 0}
+  Granny: {r: 0, g: 0, b: 0, a: 0}
+  Sizwe: {r: 0, g: 0, b: 0, a: 0}
+  noColor: {r: 0, g: 0, b: 0, a: 0}
+  _Amandla: {fileID: 0}
+  _Granny: {fileID: 0}
+  _Sizwe: {fileID: 0}
+  activeNPC: 
+  activeDialogue: 0
+  sfx: {fileID: 1742074207432036771, guid: 32674331db709804295374f49f07b6a7, type: 3}
+  next_sfx: {fileID: 5029068641181882518, guid: 420c0ebd8d52b1148b10817d46ecdb73,
+    type: 3}
