@@ -5,15 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Menu/0. Screen 1.unity
-    guid: edc2baa69085c7f42886a752c2b84411
   - enabled: 1
     path: Assets/Scenes/Menu/0. Screen 2.unity
     guid: f0c0932d672fa1348988e39bdee52291
-  - enabled: 0
-    path: Assets/Scenes/Menu/0. Title Card.unity
-    guid: fde2560f2d450dd48b3825d88b104216
   - enabled: 1
     path: Assets/Scenes/Menu/1. Main Menu.unity
     guid: e93f1b018e7bdfa4f8ae6232a04236e2
@@ -22,7 +16,7 @@ EditorBuildSettings:
     guid: 42c301f1c90bf794ba07e98fc5da567f
   - enabled: 1
     path: Assets/Scenes/Menu/3. Game.unity
-    guid: 7ee26c1cbe009aa48b4cb6de99d6e727
+    guid: e5c2c5b516e78384599422ce86a1e602
   - enabled: 1
     path: Assets/Scenes/Menu/4. Settings.unity
     guid: 746ce9e91c0fe694792e159558b69c1c
