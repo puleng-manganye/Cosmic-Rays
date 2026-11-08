@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Player_Idle
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -54,7 +54,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.2751091, y: 0.9666184, z: 0}
+        value: {x: -0.27934796, y: 0.9256438, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -63,9 +63,9 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.083333336
-        value: {x: -0.29818803, y: 0.9666194, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -0.29960096, y: 0.9567288, z: 0}
+        inSlope: {x: 0, y: 0.23735046, z: 0}
+        outSlope: {x: 0, y: 0.23735046, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -202,6 +202,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1514564027
       attribute: 1
@@ -209,6 +211,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 774658929
       attribute: 1
@@ -216,6 +220,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2711761224
       attribute: 1
@@ -223,6 +229,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 753732790
       attribute: 3
@@ -230,6 +238,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -252,7 +262,8 @@ AnimationClip:
     m_HeightFromFeet: 0
     m_Mirror: 0
   m_EditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -289,7 +300,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -326,7 +339,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -363,12 +378,14 @@ AnimationClip:
     path: Player Character_pieces/hips/spine
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.2751091
+        value: -0.27934796
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -377,7 +394,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: -0.29818803
+        value: -0.29960096
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -400,12 +417,14 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_R/IKSolver_Hand_R_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.9666184
+        value: 0.9256438
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -414,9 +433,9 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 0.9666194
-        inSlope: 0
-        outSlope: 0
+        value: 0.9567288
+        inSlope: 0.23735046
+        outSlope: 0.23735046
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
@@ -437,7 +456,9 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_R/IKSolver_Hand_R_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -474,7 +495,9 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_R/IKSolver_Hand_R_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -511,7 +534,9 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_L/IKSolver_Hand_L_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -548,7 +573,9 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_L/IKSolver_Hand_L_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -585,7 +612,9 @@ AnimationClip:
     path: Player Character_pieces/IKSolver_Hand_L/IKSolver_Hand_L_Target
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -622,7 +651,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -659,7 +690,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -696,7 +729,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -733,7 +768,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head/bun
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -770,7 +807,9 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head/bun
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -807,6 +846,7 @@ AnimationClip:
     path: Player Character_pieces/hips/spine/head/bun
     classID: 4
     script: {fileID: 0}
+    flags: 16
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
