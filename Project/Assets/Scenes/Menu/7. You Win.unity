@@ -745,7 +745,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &339184536
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -835,6 +835,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Platform_High
+      objectReference: {fileID: 0}
+    - target: {fileID: 884297176832730520, guid: d4f9451abdbd40f4f83610a2eb02d636,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 884297176832730521, guid: d4f9451abdbd40f4f83610a2eb02d636,
         type: 3}
@@ -1296,7 +1301,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 243157628120161358, guid: 8eb7142ffcb28964dbe9afbec5ecaab8,
     type: 2}
-  m_audioClip: {fileID: 8300000, guid: cc13c23a8d0d0bb449a1199fdab9d321, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 105d9c4eab0669449b3035c2e683cdd5, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.2
   m_Pitch: 1
@@ -2486,7 +2491,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: You got
+  m_Text: You saved
 --- !u!222 &1025311744
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2677,7 +2682,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: home safely.
+  m_Text: all our friends!
 --- !u!222 &1034401192
 CanvasRenderer:
   m_ObjectHideFlags: 0

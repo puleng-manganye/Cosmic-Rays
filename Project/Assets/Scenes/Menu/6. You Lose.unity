@@ -858,7 +858,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.66099995, y: 0.8970001, z: 36.74663}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+=======
+  m_LocalScale: {x: 0.05, y: 0.05, z: 1}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1381777884}
@@ -949,7 +953,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -418, y: -346}
+  m_AnchoredPosition: {x: -418, y: -233}
   m_SizeDelta: {x: 568.25, y: 334.21}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &182951108
@@ -1180,7 +1184,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.010999978, y: 0.697, z: 36.74663}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+=======
+  m_LocalScale: {x: 0.05, y: 0.05, z: 1}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1381777884}
@@ -1307,7 +1315,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: get home.
+  m_Text: OH NO!
 --- !u!222 &299223890
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3455,7 +3463,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1015280754
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3508,7 +3516,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: You didn't
+  m_Text: Oh no!
 --- !u!222 &1015280756
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3967,7 +3975,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.010999978, y: 1.0469999, z: 36.74663}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+=======
+  m_LocalScale: {x: 0.05, y: 0.05, z: 1}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1381777884}
@@ -6592,7 +6604,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 243157628120161358, guid: 8eb7142ffcb28964dbe9afbec5ecaab8,
     type: 2}
-  m_audioClip: {fileID: 8300000, guid: cc13c23a8d0d0bb449a1199fdab9d321, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 105d9c4eab0669449b3035c2e683cdd5, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.2
   m_Pitch: 1
@@ -7094,7 +7106,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.619, y: 0.8970001, z: 36.74663}
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+=======
+  m_LocalScale: {x: 0.05, y: 0.05, z: 1}
+>>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1381777884}

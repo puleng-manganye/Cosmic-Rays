@@ -27,7 +27,7 @@ public class StoryManager : MonoBehaviour
 
     [SerializeField]
     // Different fonts
-    private Font _DefaultFont, _AmandlaFont, _GrannyFont, _SizweFont;
+    private Font _DefaultFont, _NalediFont, _CompanionFont, _SizweFont;
 
     // A reference to the Vertical Layout Group 
     [SerializeField]
@@ -41,11 +41,11 @@ public class StoryManager : MonoBehaviour
 
     // Colours for each character's Name
     [SerializeField]
-    private Color Amandla, Granny, Sizwe, noColor;
+    private Color Naledi, Companion, Sizwe, noColor;
 
     // Speech Bubbles
     [SerializeField]
-    private SpriteRenderer _Amandla, _Granny, _Sizwe;
+    private SpriteRenderer _Naledi, _Companion, _Sizwe;
 
     // String to store the name of NPC that is talking with Player
     public string activeNPC = "";
@@ -190,24 +190,24 @@ public class StoryManager : MonoBehaviour
                 _dialoguePanel.gameObject.SetActive(true);
                 _pausePrompt.gameObject.SetActive(false);
 
-                _nameField.text = "Amandla: ";
-                currentColor = Amandla;
+                _nameField.text = "Naledi: ";
+                currentColor = Naledi;
 
-                _Amandla.enabled = true;
-                _Granny.enabled = false;
+                _Naledi.enabled = true;
+                _Companion.enabled = false;
                 _Sizwe.enabled = false;
             }
-            else if (tags.Contains("Granny")) // 2
+            else if (tags.Contains("Companion")) // 2
             {
                 _continueButton.gameObject.SetActive(true);
                 _namePanel.gameObject.SetActive(true);
                 _dialoguePanel.gameObject.SetActive(true);
                 _pausePrompt.gameObject.SetActive(false);
-                _nameField.text = "Granny: ";
-                currentColor = Granny;
+                _nameField.text = "Companion: ";
+                currentColor = Companion;
 
-                _Amandla.enabled = false;
-                _Granny.enabled = true;
+                _Naledi.enabled = false;
+                _Companion.enabled = true;
                 _Sizwe.enabled = false;
             }
             else if (tags.Contains("Sizwe")) // 3
@@ -219,8 +219,8 @@ public class StoryManager : MonoBehaviour
                 _nameField.text = "Sizwe: ";
                 currentColor = Sizwe;
 
-                _Amandla.enabled = false;
-                _Granny.enabled = false;
+                _Naledi.enabled = false;
+                _Companion.enabled = false;
                 _Sizwe.enabled = true;
             }
             else
@@ -244,7 +244,7 @@ public class StoryManager : MonoBehaviour
         else if (_story.currentChoices.Count > 0)
         {
             _continueButton.gameObject.SetActive(false);
-            currentColor = Amandla;
+            currentColor = Naledi;
             _textField.text = "";
             // create and display those choices
             DisplayChoices();
@@ -264,12 +264,13 @@ public class StoryManager : MonoBehaviour
             _nameField.text = "";
             currentColor = noColor;
 
-            _Amandla.enabled = false;
-            _Granny.enabled = false;
+            _Naledi.enabled = false;
+            _Companion.enabled = false;
             _Sizwe.enabled = false;
         }
 
         _nameBG.GetComponent<Image>().color = currentColor;
+
         #endregion
     }
 
@@ -282,11 +283,11 @@ public class StoryManager : MonoBehaviour
 
         if (tags.Contains("Me")) // 1
         {
-            _textField.font = _AmandlaFont;
+            _textField.font = _NalediFont;
         }
-        else if (tags.Contains("Granny")) // 2
+        else if (tags.Contains("Companion")) // 2
         {
-            _textField.font = _GrannyFont;
+            _textField.font = _CompanionFont;
         }
         else if (tags.Contains("Sizwe")) // 3
         {

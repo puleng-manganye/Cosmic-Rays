@@ -289,7 +289,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &444049675
 Transform:
   m_ObjectHideFlags: 0
@@ -1974,7 +1974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b17bc3f623ec6242b90fd018526e7bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 0. Title Card
+  sceneName: 1. Main Menu
   autoStart: 1
   waitTime: 2
 --- !u!1 &1603271247
