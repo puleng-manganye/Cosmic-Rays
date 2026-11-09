@@ -12,7 +12,7 @@ public class InteractableDoor : MonoBehaviour
 {
     #region Fields
 
-    public Animator _animator;
+    public Animator _animator, _buttonAnimator;
     private GameObject _player;
     public bool doorCloses = false;
     public float doorDelayTime = 5f;
@@ -37,6 +37,8 @@ public class InteractableDoor : MonoBehaviour
          _player = GameObject.FindGameObjectWithTag("Player");
         _inventory = _player.GetComponent<Inventory>();
         Icon.gameObject.SetActive(false);
+        _buttonAnimator.SetInteger("ButtonState", 0);
+
     }
     #endregion
 
@@ -55,6 +57,7 @@ public class InteractableDoor : MonoBehaviour
             {
                 // Open door
                 _animator.SetInteger("DoorState", 1);
+                _buttonAnimator.SetInteger("ButtonState", 1);
 
                 // Instantiate effects if there are any.
                 #region SFX
@@ -68,6 +71,7 @@ public class InteractableDoor : MonoBehaviour
             {
                 // Open door
                 _animator.SetInteger("DoorState", 1);
+                _buttonAnimator.SetInteger("ButtonState", 1);
 
                 // Instantiate effects if there are any.
                 #region SFX
