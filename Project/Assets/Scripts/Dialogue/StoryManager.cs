@@ -27,7 +27,7 @@ public class StoryManager : MonoBehaviour
 
     [SerializeField]
     // Different fonts
-    private Font _DefaultFont, _NalediFont, _CompanionFont, _SizweFont;
+    private Font _DefaultFont, _LizFont, _CompanionFont, _SizweFont;
 
     // A reference to the Vertical Layout Group 
     [SerializeField]
@@ -41,11 +41,11 @@ public class StoryManager : MonoBehaviour
 
     // Colours for each character's Name
     [SerializeField]
-    private Color Naledi, Companion, Sizwe, noColor;
+    private Color Liz, Companion, Sizwe, noColor;
 
     // Speech Bubbles
     [SerializeField]
-    private SpriteRenderer _Naledi, _Companion, _Sizwe;
+    private SpriteRenderer _Liz, _Companion, _Sizwe;
 
     // String to store the name of NPC that is talking with Player
     public string activeNPC = "";
@@ -113,6 +113,7 @@ public class StoryManager : MonoBehaviour
 
         // Will handle variable updates
         InitializeVariables();
+
     #endregion
     }
 
@@ -126,6 +127,7 @@ public class StoryManager : MonoBehaviour
         _story.ObserveVariable("money", (arg, value) => 
         {
             // Instantiate effects if there are any.
+
             #region Effects
 
             #region SFX
@@ -190,10 +192,10 @@ public class StoryManager : MonoBehaviour
                 _dialoguePanel.gameObject.SetActive(true);
                 _pausePrompt.gameObject.SetActive(false);
 
-                _nameField.text = "Naledi: ";
-                currentColor = Naledi;
+                _nameField.text = "Liz: ";
+                currentColor = Liz;
 
-                _Naledi.enabled = true;
+                _Liz.enabled = true;
                 _Companion.enabled = false;
                 _Sizwe.enabled = false;
             }
@@ -206,7 +208,7 @@ public class StoryManager : MonoBehaviour
                 _nameField.text = "Companion: ";
                 currentColor = Companion;
 
-                _Naledi.enabled = false;
+                _Liz.enabled = false;
                 _Companion.enabled = true;
                 _Sizwe.enabled = false;
             }
@@ -219,7 +221,7 @@ public class StoryManager : MonoBehaviour
                 _nameField.text = "Sizwe: ";
                 currentColor = Sizwe;
 
-                _Naledi.enabled = false;
+                _Liz.enabled = false;
                 _Companion.enabled = false;
                 _Sizwe.enabled = true;
             }
@@ -244,7 +246,7 @@ public class StoryManager : MonoBehaviour
         else if (_story.currentChoices.Count > 0)
         {
             _continueButton.gameObject.SetActive(false);
-            currentColor = Naledi;
+            currentColor = Liz;
             _textField.text = "";
             // create and display those choices
             DisplayChoices();
@@ -264,7 +266,7 @@ public class StoryManager : MonoBehaviour
             _nameField.text = "";
             currentColor = noColor;
 
-            _Naledi.enabled = false;
+            _Liz.enabled = false;
             _Companion.enabled = false;
             _Sizwe.enabled = false;
         }
@@ -283,7 +285,7 @@ public class StoryManager : MonoBehaviour
 
         if (tags.Contains("Me")) // 1
         {
-            _textField.font = _NalediFont;
+            _textField.font = _LizFont;
         }
         else if (tags.Contains("Companion")) // 2
         {

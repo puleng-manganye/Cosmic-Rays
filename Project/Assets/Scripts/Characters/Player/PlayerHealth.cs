@@ -34,6 +34,8 @@ public class PlayerHealth : MonoBehaviour
     public GameObject hit_sfx;
     public GameObject die_sfx;
 
+    public int deathScene;
+
     [Header("Death")]
     public KeyCode autoDeathButton;
 

@@ -83,15 +83,15 @@ public class Inventory : MonoBehaviour
 
         if (currentItem == inventory[0])
         {
-            item.text = "Current Inventory Item: Bronze Key";
+            item.text = "Current Item: Crescent Moon Key";
         }
         else if (currentItem == inventory[1])
         {
-            item.text = "Current Inventory Item: Silver Key";
+            item.text = "Current Item: Half Moon Key";
         }
         else if (currentItem == inventory[2])
         {
-            item.text = "Current Inventory Item: Gold Key";
+            item.text = "Current Item: Full Moon Key";
         }
     }
 

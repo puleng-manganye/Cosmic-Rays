@@ -16,7 +16,7 @@ EditorBuildSettings:
     guid: 42c301f1c90bf794ba07e98fc5da567f
   - enabled: 1
     path: Assets/Scenes/Menu/3. Game.unity
-    guid: e5c2c5b516e78384599422ce86a1e602
+    guid: ca4c5a4fee73a364a9e845b68cc92f09
   - enabled: 1
     path: Assets/Scenes/Menu/4. Settings.unity
     guid: 746ce9e91c0fe694792e159558b69c1c
@@ -24,12 +24,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu/5. Credits.unity
     guid: 732409bf81192594abdc1cf8d1ac4fbb
   - enabled: 1
-    path: Assets/Scenes/Menu/6. You Died.unity
-    guid: 7b3fb44cc0f5ad7489c3f53f3883521e
+    path: Assets/Scenes/Menu/7. You Win.unity
+    guid: c78813726fa59fe4495bd5dc1097012c
   - enabled: 1
     path: Assets/Scenes/Menu/7. Level Complete.unity
     guid: 01c8d7db15c645d44a67dc726baf8719
   - enabled: 1
-    path: Assets/Scenes/Menu/7. You Win.unity
-    guid: c78813726fa59fe4495bd5dc1097012c
+    path: Assets/Scenes/Menu/6. You Died.unity
+    guid: 7b3fb44cc0f5ad7489c3f53f3883521e
   m_configObjects: {}
